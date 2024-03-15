@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/coursera-ibm-fullstack/react-budget-app/static/css/main.ff02f4b5.css",
+    "main.js": "/coursera-ibm-fullstack/react-budget-app/static/js/main.8ad3aff5.js",
+    "static/js/453.4c44d50b.chunk.js": "/coursera-ibm-fullstack/react-budget-app/static/js/453.4c44d50b.chunk.js",
+    "index.html": "/coursera-ibm-fullstack/react-budget-app/index.html",
+    "main.ff02f4b5.css.map": "/coursera-ibm-fullstack/react-budget-app/static/css/main.ff02f4b5.css.map",
+    "main.8ad3aff5.js.map": "/coursera-ibm-fullstack/react-budget-app/static/js/main.8ad3aff5.js.map",
+    "453.4c44d50b.chunk.js.map": "/coursera-ibm-fullstack/react-budget-app/static/js/453.4c44d50b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.8ad3aff5.js"
+  ]
+}
